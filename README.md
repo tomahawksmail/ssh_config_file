@@ -1,6 +1,9 @@
 # ssh_config_file
-ssh config template
-
+ssh config template 
+create file "config" to ~/.ssh
+```
+chmod 0600 config
+```
 
 ```
 # Special host
