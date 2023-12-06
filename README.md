@@ -2,9 +2,11 @@
 ssh config template 
 create file "config" to ~/.ssh
 ```
+nano ~/.ssh/config
 chmod 0600 config
 ```
 
+config file
 ```
 # Special host
 Host name
